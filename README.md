@@ -1,11 +1,11 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bryanauta&show_icons=true&theme=dark) ![Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanauta&theme=dark)
 
-<h1>Hey, I'm Bryanauta! 👋</h1>
+<h2>Hello world, I'm Bryanauta! 👋</h2>
 <p>👨‍💻 Studying for turning a web full stack developer and a mobile developer</p>
 <p>📌 Actually i live on Porto Alegre-RS.</p>
 <p>📅 18 years.</p>
 
-<h1>Find me in whatever world 🌎</h1>
+<h2>Find me in whatever world 🌎</h2>
 <p>💼 <a href="https://www.linkedin.com/in/bryanauta/">LinkedIn</a></p>
 <p>📷 <a href="https://www.instagram.com/bryanauta/">Instagram</a></p>
 
