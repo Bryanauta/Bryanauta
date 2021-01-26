@@ -6,8 +6,8 @@
 <p>📅 18 years.</p>
 
 <h1>Find me in whatever world 🌎</h1>
-<p>💼<a href="https://www.linkedin.com/in/bryanauta/">LinkedIn</a></p>
-<p>📷<a href="https://www.instagram.com/bryanauta/">Instagram</a></p>
+<p>💼 <a href="https://www.linkedin.com/in/bryanauta/">LinkedIn</a></p>
+<p>📷 <a href="https://www.instagram.com/bryanauta/">Instagram</a></p>
 
 <!--
 **Bryanauta/Bryanauta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
