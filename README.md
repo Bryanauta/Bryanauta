@@ -1,7 +1,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bryanauta&show_icons=true&theme=dark) ![Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanauta&theme=dark)
 
 <h2>Hello world, I'm Bryanauta! 👋</h2>
-<p>👨‍💻 Studying for turning a web full stack developer and a mobile developer</p>
+<p>👨‍💻 Studying for turning a full stack web developer </p>
 <p>📌 Actually i live on Porto Alegre-RS.</p>
 <p>📅 18 years.</p>
 
