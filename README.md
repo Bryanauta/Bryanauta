@@ -1,4 +1,4 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=bryanauta&show_icons=true&theme=dark) ![Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanauta&theme=dark)
+![Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanauta&theme=dark) ![Github stats](https://github-readme-stats.vercel.app/api?username=bryanauta&show_icons=true&theme=dark) 
 
 <h2>Hello world, I'm Bryanauta! 👋</h2>
 <p>👨‍💻 Studying for turning a full stack web developer </p>
