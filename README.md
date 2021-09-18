@@ -1,13 +1,13 @@
 ![Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanauta&theme=dark) ![Github stats](https://github-readme-stats.vercel.app/api?username=bryanauta&show_icons=true&theme=dark) 
 
 <h2>Hello world, I'm Bryanauta! 👋</h2>
-<p>👨‍💻 Studying to become a great developer </p>
+<p>👨‍💻 Studying to become a great developer. </p>
 <p>📌 Currently living in Porto Alegre-RS.</p>
 <p>📅 18 years.</p>
 
 <h2>Find me in whatever world 🌎</h2>
-<p>💼 <a href="https://www.linkedin.com/in/bryanauta/">LinkedIn</a></p>
-<p>📷 <a href="https://www.instagram.com/bryanauta/">Instagram</a></p>
+<p>💼 <a href="https://www.linkedin.com/in/bryanauta/">LinkedIn</a>.</p>
+<p>📷 <a href="https://www.instagram.com/bryanauta/">Instagram</a>.</p>
 
 <!--
 **Bryanauta/Bryanauta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
