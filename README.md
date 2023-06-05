@@ -1,15 +1,15 @@
 <div align="center">
-<img src="https://images.unsplash.com/photo-1589409514187-c21d14df0d04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" align="center" style="width: 100%" />
+<!-- <img src="https://images.unsplash.com/photo-1589409514187-c21d14df0d04?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" align="center" style="width: 100%" /> -->
 </div>  
   
 
-### <div align="center">I'm Bryanauta, a back-end developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Bryanauta, a Software Developer 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on [Dimensa Tecnologia](https://dimensa.com/)  
   
 
-- 🌱 I’m currently learning Typescript & Spring  
+- 🌱 I’m currently learning Angular & Spring  
   
 
 - ❓ Ask me about web development   
