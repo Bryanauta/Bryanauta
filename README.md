@@ -6,7 +6,7 @@
 ### <div align="center">I'm Bryanauta, a Software Developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Dimensa Tecnologia](https://dimensa.com/)  
+- 🔭 I’m currently working on [USE](https://www.useuniformesp.com.br/)  
   
 
 - 🌱 I’m currently learning Angular & Spring  
